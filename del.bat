@@ -1,0 +1,1 @@
+del python_install.bat hide.bat Python_complete.bat python-3.9.13-amd64.exe setPath.bat
